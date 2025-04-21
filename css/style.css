@@ -1,0 +1,11 @@
+@charset utf-8;
+
+header{
+    background-image: linear-gradient(to right, #FFE100, #F00000, blue);
+    padding: 70px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    color: white;
+    
+    
+}
